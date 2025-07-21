@@ -2,6 +2,10 @@
 
 A full-stack Next.js application to save, auto-summarize, and manage your favorite links. Features user authentication, MongoDB storage, auto-fetching of title, favicon, and summary (via Jina AI), tag filtering, dark mode, drag-and-drop reordering, and a clean, responsive UI.
 
+# Live Demo
+
+You can view the hosted project here: [https://link-saver-project-84l4.vercel.app](https://link-saver-project-84l4.vercel.app)
+
 ---
 
 ## 🚀 Tech Stack
@@ -111,3 +115,4 @@ Sample screenshots from the app (see `public/screenshots/`):
 - Email: [ayushnegi369@gmail.com](mailto:ayushnegi369@gmail.com)
 - Portfolio: [ayushnegi22.vercel.app](https://ayushnegi22.vercel.app)
 - Contact: +918368465119
+
